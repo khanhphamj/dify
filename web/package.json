@@ -101,7 +101,7 @@
     "remark-math": "^5.1.1",
     "scheduler": "^0.23.0",
     "server-only": "^0.0.1",
-    "sharp": "^0.33.2",
+    "sharp": "^0.35.5",
     "sortablejs": "^1.15.0",
     "swr": "^2.1.0",
     "tailwind-merge": "^2.4.0",
